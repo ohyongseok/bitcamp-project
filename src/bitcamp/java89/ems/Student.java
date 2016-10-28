@@ -1,4 +1,5 @@
 package bitcamp.java89.ems;
+
 public class Student {
   // 인스턴스 변수
   String userId;
